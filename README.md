@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krutarth0
-- 👀 I’m interested in Web developement
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning next.js and PyTorch
-- 💞️ I’m looking to collaborate on any web dev or ML/DL projects 
-- 📫 How to reach me : mail me krutarthpatel1998@gmail.com
+- 💞️ I’m looking to collaborate on any interesteing projects you might have
+- 📫 How to reach me : mail me krutarth.canada2@gmail.com
 
 <!---
 krutarth0/krutarth0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
