@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krutarth0
+- 👋 Hi, I’m Krutarth
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning next.js and PyTorch
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any interesteing projects you might have
 - 📫 How to reach me : mail me krutarth.canada2@gmail.com
 
